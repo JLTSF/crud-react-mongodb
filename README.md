@@ -6,7 +6,7 @@
 
 - Abra o terminal no diretório (BACKEND) onde se encontra o projeto e execute o comando `npm i` para que todas as dependências sejam instaladas.
 
-= Ainda no terminal execute o `npm run start` para iniciar.
+- Ainda no terminal execute o `npm run start` para iniciar.
 
 - `GET/POST na rota (/car) GET/PUT/DELETE na rota (/car/:carId)`
 - Utilize o Insonia para testar as requisições.
